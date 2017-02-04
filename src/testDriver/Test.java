@@ -1,6 +1,6 @@
 package testDriver;
 
-import questions.Doomsday_fuel;
+import doomsday_fuel.Doomsday_fuel;
 
 public class Test {
 	public static void main(String args[]) {

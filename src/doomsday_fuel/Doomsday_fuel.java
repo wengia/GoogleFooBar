@@ -1,4 +1,4 @@
-package questions;
+package doomsday_fuel;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package questions;
+package the_grandest_staircase_of_them_all;
 
 /* Level 3 first question */
 public class The_grandest_staircase_of_them_all {
