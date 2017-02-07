@@ -4,6 +4,17 @@ import java.util.*;
 
 /* Level 3 second question */
 /* Passed test 1,2,7. */
+
+/* Solution should be:
+ * Markov Chains - Stationary Distributions
+ * Find the stationary distribution of the Markov chain
+ * q = {x0, x1, ..., xn}
+ * A = m
+ * The question is to find q where:
+ * q * A = q
+ * 
+ * However this is not exactly the case... The transition matrix has all-zero state
+ */
 public class Doomsday_fuel {
 	public static int[] answer(int[][] m) {
 		List<Ore> oreList = new ArrayList<>();
